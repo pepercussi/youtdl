@@ -14,7 +14,7 @@ For example, for Microsoft Windows, download **./dist/mac/youtdl** file.
 ## Usage/Examples
 After download the executable, you will need to run it.
 
-### Windows Execution (Coming soon)
+### Windows Execution
 
 1. Go to the downloaded file **youtdl.exe** and double click on it.
 2. Then a terminal window will raise and will request you to prompt an url for the Youtube video that you want to download.
